@@ -1,6 +1,6 @@
 ## 你好 👋 ![](https://komarev.com/ghpvc/?username=mmzsblog)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&size=20&duration=1500&pause=3000&color=0E96F7&center=%E7%9C%9F%E7%9A%84&vCenter=%E7%9C%9F%E7%9A%84&width=300&height=100&lines=😄+很+高+兴+遇+见+你+，+请+多+指+教)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=oswald&size=20&duration=1500&pause=3000&color=0E96F7&center=%E7%9C%9F%E7%9A%84&vCenter=%E7%9C%9F%E7%9A%84&width=600&height=100&lines=😄+很+高+兴+遇+见+你+，+请+多+指+教)](https://git.io/typing-svg)
 
 - 👨‍💻 我是一名 Java 工程师
 - 💬 欢迎关注我的微信公众号『Java学习之道』
